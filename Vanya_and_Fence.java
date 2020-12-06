@@ -2,7 +2,7 @@ import java.util.*;
 public class Vanya_and_Fence {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// https://codeforces.com/contest/677/problem/A
 		Scanner sc = new Scanner(System.in);
 		int arS = sc.nextInt();
 		int height = sc.nextInt();
